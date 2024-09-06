@@ -80,4 +80,4 @@ def get_coordinates():
     }
     return jsonify(result)
 
-app.run(debug=True,port=3000)
+app.run(debug=True)
