@@ -4,3 +4,4 @@ pillow
 supervision
 huggingface_hub
 git+https://github.com/THU-MIG/yolov10.git
+gunicorn==19.7.1
